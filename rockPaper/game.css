@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(179, 88, 100);
+}
+#game{
+    width: 30%;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid skyblue;
+    border-radius: 25px;
+    padding: 10px;
+    background-color:cornsilk;
+    text-align: center;
+    box-shadow: 25px 25px 25px  rgb(1, 14, 19);
+    margin-top: 100px;
+    margin-left: 500px;
+}
+.choice{
+    line-height: 30px;
+    width: 150px;
+    border-radius: 25px;
+    background-color: rgb(24, 21, 21);
+    color: white;
+    font-size:large;
+}
+#Player{
+    color: blue;
+}
+#Computer{
+    color: green;
+}

@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(77, 63, 73);
+}
+
+.l1{
+    height:40px;
+    width: 450px;
+    background-color:rgb(227, 130, 227);
+    
+}
+.l2{
+    height:40px;
+    width: 450px;
+    background-color:rgb(121, 51, 170);
+    
+}
+.l3{
+    height:40px;
+    width: 450px;
+    background-color:rgb(42, 42, 230);
+}
+.l4{
+    height:40px;
+    width: 450px;
+    background-color:green;
+   
+}
+.l5{
+    height:40px;
+    width: 450px;
+    background-color:yellow;
+    
+}
+.l6{
+    height:40px;
+    width: 450px;
+    background-color:orange;
+    
+}
+.l7{
+    height:40px;
+    width: 450px;
+    background-color:red;
+   
+}
+.marque{
+    width:100%;
+}
