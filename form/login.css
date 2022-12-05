@@ -92,3 +92,10 @@ body {
     font-size: 16px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+input:invalid {
+    border-color: red;
+  }
+  
+  input:valid {
+    border-color: rgb(53, 181, 232);
+  }
